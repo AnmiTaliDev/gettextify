@@ -212,16 +212,6 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 
 Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
-### Development Priorities
-
-- [ ] Add PO file input support
-- [ ] Add JSON format support
-- [ ] Add PO file output (decompiler)
-- [ ] Improve error messages
-- [ ] Add unit tests
-- [ ] Add validation mode
-- [ ] Performance optimizations
-
 ## Authors
 
 See [AUTHORS](AUTHORS) file for the list of contributors.

@@ -68,15 +68,6 @@ This document outlines the planned features and improvements for gettextify.
 - [ ] Incremental compilation
 - [ ] Caching system
 
-### Developer Experience
-
-- [ ] Library mode (libgettextify)
-- [ ] C API for language bindings
-- [ ] Python bindings
-- [ ] JavaScript/TypeScript bindings
-- [ ] Documentation improvements
-- [ ] API reference generation
-
 ## Long-term Goals
 
 ### Tooling Ecosystem
