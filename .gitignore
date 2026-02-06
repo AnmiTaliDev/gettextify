@@ -1,1 +1,36 @@
+# Build directories
 /builddir
+/build
+/build-*
+
+# Compiled binaries
+*.o
+*.so
+*.a
+*.exe
+gettextify
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Meson files
+/subprojects/packagecache/
+compile_commands.json
+
+# Test outputs
+*.mo
+*.pot
+*.po
+*.po~
+test.csv
+test_*.csv
+/locale/
+
+# Temporary files
+*.tmp
+*.log
